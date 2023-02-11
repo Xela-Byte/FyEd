@@ -18,4 +18,4 @@
 
 # FyEd
 
-### An innnovative mobile application designed to help FUOYE students stay organized and on top of their studies.
+<p> An innnovative mobile application designed to help FUOYE students stay organized and on top of their studies. </p>
