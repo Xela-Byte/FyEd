@@ -1,0 +1,22 @@
+Primary color
+
+Deep green - #17B978
+Green - #20E395
+Light green - #4DE9AA
+
+
+Accent color
+
+Grey - #e6e6e6
+Black - #262626
+
+Semantic color
+
+Tea green - #8ED081
+Teal - #087F8C
+Pink - #EFAAC4
+Purple - #52489C
+Light Orange - #F4B266
+Blue - #48ACF0
+Light Purple - #BEA2C2
+Orange - #FF934F
